@@ -1,0 +1,74 @@
+h1 {
+  color:rgb(239, 23, 23);
+  background-color:gold;
+  padding: 20px;
+  font-size: 3em;
+  font-family: "Times New Roman";
+  font-style: italic;
+  text-align:center;
+}
+
+h2 {
+  color:rgb(15, 245, 199);
+  font-size: 2em;
+  font-weight: 800;
+  font-family: "Times New Roman";
+  text-align:center
+}
+
+p {
+  color:blanchedalmond;
+  font-size: 1.2em;
+}
+
+li {
+  float: left;
+}
+
+.navbar{
+  font-size: 1.2em;
+  width:100%;
+  display:inline-table;
+  padding: 10px;
+  background-color: #33f89c;
+}
+
+form{
+  text-align:center;
+}
+
+label {
+  border: none;
+  color: rgb(188, 238, 9);
+  font-size: 1.5em;
+  font-weight: 600;
+  padding: 10px 16px;
+  text-decoration:solid;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+input[type=text], input[type=password] {
+  background-color: white;
+  border:black;
+  color:black;
+  font-size: 1.5em;
+  font-weight: 600;
+  margin: 4px 2px;
+}
+
+input[type=submit] {
+  background-color: #0f04aa;
+  border:black;
+  color: white;
+  font-size: 1.5em;
+  font-weight: 800;
+  padding: 10px 16px;
+  text-decoration:solid;
+  margin: 4px 2px;
+}
+
+body {
+  background-color:rgb(211, 22, 244)
+}
+
