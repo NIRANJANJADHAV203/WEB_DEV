@@ -15,3 +15,4 @@ The FAQ page only has questions, you can use ctrl + F to search a specific quest
 The Contact Us page dosen't have a backend right now but will be available soon.
 
 Thankyou and enjoy our website :)
+The files in the wpl folder cannot be changed
